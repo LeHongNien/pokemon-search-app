@@ -1,6 +1,6 @@
 # Pokemon Search App
 
-### Examples:
+### Example:
 Enter a number between: 1 to 10277
 
 Pokemon information & image shows
